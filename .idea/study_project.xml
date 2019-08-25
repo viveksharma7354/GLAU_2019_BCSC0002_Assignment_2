@@ -82,7 +82,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="1" />
+                                      <option name="length" value="2" />
                                       <option name="offset" value="63" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="0" />
@@ -154,7 +154,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="3" />
-                                      <option name="offset" value="173" />
+                                      <option name="offset" value="146" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="0.0" />
                                       <option name="possibleAnswer" value="2 * Math.PI * radius" />
