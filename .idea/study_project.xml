@@ -154,7 +154,7 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="3" />
-                                      <option name="offset" value="84" />
+                                      <option name="offset" value="170" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="0.0" />
                                       <option name="possibleAnswer" value="2 * Math.PI * radius" />
@@ -164,7 +164,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;public double calculateCircumference(double radius) {&#10;&#9;&#9;return 0.0;&#10;&#9;}&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -275,7 +275,7 @@
                       <option name="index" value="4" />
                       <option name="name" value="question4" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -284,7 +284,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;public String convertIntegerToBinaryString(int decimalNumber) {&#10;&#9;&#9;return &quot;&quot;;&#10;&#9;}&#10;}" />
                                 <option name="trackChanges" value="true" />
