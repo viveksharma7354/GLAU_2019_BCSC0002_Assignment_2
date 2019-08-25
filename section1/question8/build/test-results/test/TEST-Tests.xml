@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="3" skipped="0" failures="3" errors="0" timestamp="2019-08-25T16:28:24" hostname="ANSH" time="0.041">
+<testsuite name="Tests" tests="3" skipped="0" failures="3" errors="0" timestamp="2019-08-25T18:00:25" hostname="ANSH" time="0.015">
   <properties/>
-  <testcase name="checkFor0and0" classname="Tests" time="0.026">
-    <failure message="java.util.NoSuchElementException" type="java.util.NoSuchElementException">java.util.NoSuchElementException
-	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
-	at java.base/java.util.Scanner.next(Scanner.java:1594)
-	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
-	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
-	at Task.booleanAnd(Task.java:22)
+  <testcase name="checkFor0and0" classname="Tests" time="0.01">
+    <failure message="org.junit.ComparisonFailure: Input(2, 2) expected:&lt;0[0000000]&gt; but was:&lt;0[]&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: Input(2, 2) expected:&lt;0[0000000]&gt; but was:&lt;0[]&gt;
+	at org.junit.Assert.assertEquals(Assert.java:115)
 	at Tests.checkFor0and0(Tests.java:19)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -58,13 +54,9 @@
 	at java.base/java.lang.Thread.run(Thread.java:844)
 </failure>
   </testcase>
-  <testcase name="checkFor2and2" classname="Tests" time="0.006">
-    <failure message="java.util.NoSuchElementException" type="java.util.NoSuchElementException">java.util.NoSuchElementException
-	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
-	at java.base/java.util.Scanner.next(Scanner.java:1594)
-	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
-	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
-	at Task.booleanAnd(Task.java:22)
+  <testcase name="checkFor2and2" classname="Tests" time="0.001">
+    <failure message="org.junit.ComparisonFailure: Input(2, 2) expected:&lt;[000000]10&gt; but was:&lt;[]10&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: Input(2, 2) expected:&lt;[000000]10&gt; but was:&lt;[]10&gt;
+	at org.junit.Assert.assertEquals(Assert.java:115)
 	at Tests.checkFor2and2(Tests.java:14)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
@@ -115,13 +107,9 @@
 	at java.base/java.lang.Thread.run(Thread.java:844)
 </failure>
   </testcase>
-  <testcase name="checkFor4and5" classname="Tests" time="0.005">
-    <failure message="java.util.NoSuchElementException" type="java.util.NoSuchElementException">java.util.NoSuchElementException
-	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
-	at java.base/java.util.Scanner.next(Scanner.java:1594)
-	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
-	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
-	at Task.booleanAnd(Task.java:22)
+  <testcase name="checkFor4and5" classname="Tests" time="0.003">
+    <failure message="org.junit.ComparisonFailure: Input(4, 5) expected:&lt;[00000]100&gt; but was:&lt;[]100&gt;" type="org.junit.ComparisonFailure">org.junit.ComparisonFailure: Input(4, 5) expected:&lt;[00000]100&gt; but was:&lt;[]100&gt;
+	at org.junit.Assert.assertEquals(Assert.java:115)
 	at Tests.checkFor4and5(Tests.java:9)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
