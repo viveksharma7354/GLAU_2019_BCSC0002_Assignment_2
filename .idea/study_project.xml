@@ -204,7 +204,7 @@
                       <option name="index" value="3" />
                       <option name="name" value="question3" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -225,12 +225,12 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="3" />
-                                      <option name="offset" value="226" />
+                                      <option name="offset" value="230" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="0.0" />
                                       <option name="possibleAnswer" value="numberOfSides * lengthOfOneSide * lengthOfOneSide / (4.0 * Math.tan(Math.PI / numberOfSides))" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                     </AnswerPlaceholder>
                                   </list>
@@ -445,7 +445,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="test/Tests.java" />
                                 <option name="text" value="import org.junit.Assert;&#10;import org.junit.Test;&#10;&#10;public class Tests {&#10;&#9;Task task = new Task();&#10;&#9;@Test&#10;&#9;public void testSolution() {&#10;&#9;&#9;Assert.assertEquals(131.0, task.evaluateExpression());&#10;&#9;}&#10;}" />
                                 <option name="trackChanges" value="true" />

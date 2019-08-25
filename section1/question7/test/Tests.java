@@ -6,6 +6,7 @@ public class Tests {
 
     @Test
     public void testSolution() {
-        Assert.assertEquals(131.0, task.evaluateExpression());
+
+        Assert.assertEquals(131.0, task.evaluateExpression(), 0.1);
     }
 }
