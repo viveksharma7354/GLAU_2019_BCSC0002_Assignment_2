@@ -569,7 +569,7 @@
                       <option name="index" value="10" />
                       <option name="name" value="question10" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Solved" />
+                      <option name="status" value="Unchecked" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
