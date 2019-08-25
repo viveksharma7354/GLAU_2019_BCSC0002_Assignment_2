@@ -324,7 +324,7 @@
                       <option name="index" value="5" />
                       <option name="name" value="question5" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -333,7 +333,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;public String convertIntegerToBinaryStringWithAddedBits(int decimalNumber) {&#10;&#9;&#9;return &quot;&quot;;&#10;&#9;}&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -373,7 +373,7 @@
                       <option name="index" value="6" />
                       <option name="name" value="question6" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -382,7 +382,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;public double calculateAreaOfTriangleWith3Sides(double side1, double side2, double side3) {&#10;&#9;&#9;return 0.0;&#10;&#9;}&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -422,7 +422,7 @@
                       <option name="index" value="7" />
                       <option name="name" value="question7" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Failed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -431,7 +431,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;// TODO write the method here and delete this line afterwards!&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -471,7 +471,7 @@
                       <option name="index" value="8" />
                       <option name="name" value="question8" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Failed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -480,7 +480,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;public static void main(String[] args) {&#10;&#9;&#9;Task task = new Task();&#10;&#9;&#9;StringBuilder sb = new StringBuilder();&#10;&#9;&#9;String stringVal = task.booleanAnd(0, 0);&#10;&#9;&#9;int diff = 8 - stringVal.length();&#10;&#9;&#9;for (int i = 0; i &lt; diff; i++) {&#10;&#9;&#9;&#9;sb.append(&quot;0&quot;);&#10;&#9;&#9;}&#10;&#9;&#9;sb.append(stringVal);&#10;&#9;&#9;System.out.println(sb.toString());&#10;&#9;}&#10;&#10;&#9;public String booleanAnd(int number1, int number2) {&#10;&#9;&#9;return &quot;&quot;;&#10;&#9;}&#10;&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -520,7 +520,7 @@
                       <option name="index" value="9" />
                       <option name="name" value="question9" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
@@ -529,7 +529,7 @@
                                 <option name="answerPlaceholders">
                                   <list />
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.java" />
                                 <option name="text" value="public class Task {&#10;&#9;// TODO write your method here and delete this line afterwards!&#10;}" />
                                 <option name="trackChanges" value="true" />
@@ -569,7 +569,7 @@
                       <option name="index" value="10" />
                       <option name="name" value="question10" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.java">
