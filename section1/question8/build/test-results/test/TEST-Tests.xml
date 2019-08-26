@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-26T10:18:17" hostname="ANSH" time="0.005">
+<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-08-26T10:25:51" hostname="ANSH" time="0.016">
   <properties/>
-  <testcase name="checkFor0and0" classname="Tests" time="0.004"/>
+  <testcase name="checkFor0and0" classname="Tests" time="0.006"/>
   <testcase name="checkFor2and2" classname="Tests" time="0.001"/>
-  <testcase name="checkFor4and5" classname="Tests" time="0.0"/>
+  <testcase name="checkFor4and5" classname="Tests" time="0.008"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
